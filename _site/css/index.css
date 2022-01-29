@@ -24,8 +24,8 @@ code {
 }
 .circle {
     background-color: #2ecc71;
-    /* width: 400px;
-    height: 200px; */
+     width: 400px;
+    height: 200px;
     border-radius: 5%;
     font-family: cursive;
     width: 50%;
@@ -36,4 +36,4 @@ code {
     margin-top: 0px;
     margin-left: 10%;
     margin-right: 10%;
-} */ */
+} */
